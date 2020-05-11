@@ -1,0 +1,18 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="grid grid-centered">
+      <div class="grid-cell">
+        {% include 'partials/navigation.html.twig' %}
+          <section id="body">
+            <div class="wrapper padding">
+               {{ page.content }}
+            </div>
+          </section>
+
+{% include 'partials/footer.html.twig' %}
+
+    </div>
+</div>
+  
+{% endblock %}
