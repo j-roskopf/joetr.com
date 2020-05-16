@@ -1,5 +1,6 @@
 ---
 title: 'Render #2'
+media_order: render2.png
 ---
 
 ```kotlin
@@ -26,3 +27,5 @@ fun main() {
     }
 }
 ```
+
+![](render2.png)
