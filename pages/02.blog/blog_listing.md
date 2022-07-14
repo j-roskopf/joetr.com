@@ -1,5 +1,5 @@
 ---
-title: 'Personal Blog'
+title: Blog
 content:
     items: '@self.children'
     order:
