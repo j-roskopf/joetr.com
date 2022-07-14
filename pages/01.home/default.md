@@ -11,9 +11,10 @@ I’m an Android developer who is passionate about the human side of software de
 
 [Tech Blog](https://joer.hashnode.dev/)
 
-[Girls Who Code volunteer](https://girlswhocode.umn.edu/thank-you-sponsors-and-partners-girls-who-code-umn)
+Looking for a mentor? Find me on [Coding Coach](https://mentors.codingcoach.io/?name=Joseph%20Roskopf)
 
 [SoundCloud](https://soundcloud.com/joeroskopf)
 
-Looking for a mentor? Find me on [Coding Coach](https://mentors.codingcoach.io/?name=Joseph%20Roskopf)
+[Girls Who Code volunteer](https://girlswhocode.umn.edu/thank-you-sponsors-and-partners-girls-who-code-umn)
+
 
