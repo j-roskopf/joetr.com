@@ -15,6 +15,6 @@ Looking for a mentor? Find me on [Coding Coach](https://mentors.codingcoach.io/?
 
 [SoundCloud](https://soundcloud.com/joeroskopf)
 
-[Girls Who Code volunteer](https://girlswhocode.umn.edu/thank-you-sponsors-and-partners-girls-who-code-umn)
+[Girls Who Code](https://girlswhocode.umn.edu/girls-who-code-archives) [volunteer](https://girlswhocode.umn.edu/sponsors)
 
 
